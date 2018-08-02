@@ -3,3 +3,6 @@
 
 ## btn.py
 按按钮退出；鼠标移至btn响应相关描述信息；界面图标icon；关闭整个程序确认 Yes|No
+
+## menubar.py
+状态栏；菜单栏；创建二级菜单；check menu
